@@ -1,0 +1,1462 @@
+{
+  "title": "Republic City East Side Street Atlas",
+  "updated": "3 November 2026",
+  "width": 1774,
+  "height": 1716,
+  "areas": {
+    "north": {
+      "title": "Upper East Side",
+      "x": 437,
+      "y": 0,
+      "width": 1337,
+      "height": 901,
+      "image": "image2.png"
+    },
+    "south": {
+      "title": "Lower East Side",
+      "x": 0,
+      "y": 901,
+      "width": 1631,
+      "height": 815,
+      "image": "image3.png"
+    }
+  },
+  "streets": [
+    {
+      "id": "N-E01",
+      "name": "Rheng St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 771.98,
+      "y": 221.68,
+      "points": [
+        [
+          437.0,
+          228.57
+        ],
+        [
+          1192.67,
+          221.68
+        ],
+        [
+          1587.75,
+          12.81
+        ]
+      ]
+    },
+    {
+      "id": "N-E02",
+      "name": "Cornerstone St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1487.26,
+      "y": 231.53,
+      "points": [
+        [
+          1442.92,
+          106.41
+        ],
+        [
+          1442.92,
+          412.81
+        ]
+      ]
+    },
+    {
+      "id": "N-E03",
+      "name": "Industry St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1624.21,
+      "y": 315.27,
+      "points": [
+        [
+          1613.37,
+          27.59
+        ],
+        [
+          1613.37,
+          592.13
+        ]
+      ]
+    },
+    {
+      "id": "N-E04",
+      "name": "Launch St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 978.88,
+      "y": 372.42,
+      "points": [
+        [
+          995.63,
+          289.66
+        ],
+        [
+          995.63,
+          472.91
+        ]
+      ]
+    },
+    {
+      "id": "N-E05",
+      "name": "Chunying St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1087.25,
+      "y": 428.58,
+      "points": [
+        [
+          1104.0,
+          292.61
+        ],
+        [
+          1104.0,
+          706.41
+        ]
+      ]
+    },
+    {
+      "id": "N-E06",
+      "name": "Izaki St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1249.82,
+      "y": 413.8,
+      "points": [
+        [
+          1175.93,
+          413.8
+        ],
+        [
+          1589.72,
+          411.83
+        ]
+      ]
+    },
+    {
+      "id": "N-E07",
+      "name": "Nakoa St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 987.75,
+      "y": 495.57,
+      "points": [
+        [
+          920.75,
+          490.65
+        ],
+        [
+          1047.84,
+          490.65
+        ]
+      ]
+    },
+    {
+      "id": "N-E08",
+      "name": "Gui St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1038.98,
+      "y": 538.92,
+      "points": [
+        [
+          1053.76,
+          286.7
+        ],
+        [
+          1053.76,
+          706.41
+        ]
+      ]
+    },
+    {
+      "id": "N-E09",
+      "name": "Finance St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 922.72,
+      "y": 567.49,
+      "points": [
+        [
+          838.98,
+          571.44
+        ],
+        [
+          1045.87,
+          571.44
+        ]
+      ]
+    },
+    {
+      "id": "N-E10",
+      "name": "Cranefish St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 776.91,
+      "y": 587.2,
+      "points": [
+        [
+          901.05,
+          278.82
+        ],
+        [
+          901.05,
+          475.87
+        ],
+        [
+          570.01,
+          718.24
+        ],
+        [
+          446.85,
+          854.2
+        ],
+        [
+          444.88,
+          896.56
+        ]
+      ]
+    },
+    {
+      "id": "N-E11",
+      "name": "Daiyi St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 829.12,
+      "y": 636.46,
+      "points": [
+        [
+          844.89,
+          590.15
+        ],
+        [
+          844.89,
+          706.41
+        ]
+      ]
+    },
+    {
+      "id": "N-E12",
+      "name": "Lianzu St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 898.09,
+      "y": 640.4,
+      "points": [
+        [
+          924.69,
+          590.15
+        ],
+        [
+          924.69,
+          706.41
+        ]
+      ]
+    },
+    {
+      "id": "N-E13",
+      "name": "Enren St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 993.66,
+      "y": 637.45,
+      "points": [
+        [
+          942.42,
+          636.46
+        ],
+        [
+          1051.79,
+          636.46
+        ]
+      ]
+    },
+    {
+      "id": "N-E14",
+      "name": "Rail St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1181.84,
+      "y": 541.88,
+      "points": [
+        [
+          1173.95,
+          289.66
+        ],
+        [
+          1173.95,
+          701.49
+        ]
+      ]
+    },
+    {
+      "id": "N-E15",
+      "name": "Sandstone St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1300.06,
+      "y": 485.72,
+      "points": [
+        [
+          1174.94,
+          497.54
+        ],
+        [
+          1418.29,
+          497.54
+        ]
+      ]
+    },
+    {
+      "id": "N-E16",
+      "name": "Tram St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1436.03,
+      "y": 572.42,
+      "points": [
+        [
+          1426.17,
+          426.61
+        ],
+        [
+          1426.17,
+          895.58
+        ]
+      ]
+    },
+    {
+      "id": "N-E17",
+      "name": "Glass St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1284.3,
+      "y": 607.89,
+      "points": [
+        [
+          1179.87,
+          608.87
+        ],
+        [
+          1413.37,
+          608.87
+        ]
+      ]
+    },
+    {
+      "id": "N-E18",
+      "name": "Long St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1266.57,
+      "y": 716.26,
+      "points": [
+        [
+          603.5,
+          717.25
+        ],
+        [
+          1577.9,
+          716.26
+        ]
+      ]
+    },
+    {
+      "id": "N-E19",
+      "name": "Fountain St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 603.5,
+      "y": 785.23,
+      "points": [
+        [
+          634.05,
+          737.94
+        ],
+        [
+          634.05,
+          898.53
+        ]
+      ]
+    },
+    {
+      "id": "N-E20",
+      "name": "Fire Lily St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 721.73,
+      "y": 789.17,
+      "points": [
+        [
+          702.03,
+          737.94
+        ],
+        [
+          702.03,
+          898.53
+        ]
+      ]
+    },
+    {
+      "id": "N-E21",
+      "name": "Purpur St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 787.74,
+      "y": 824.64,
+      "points": [
+        [
+          766.07,
+          737.94
+        ],
+        [
+          766.07,
+          898.53
+        ]
+      ]
+    },
+    {
+      "id": "S-E01",
+      "name": "Canal St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 574,
+      "y": 946,
+      "points": [
+        [
+          459,
+          956
+        ],
+        [
+          783,
+          956
+        ]
+      ]
+    },
+    {
+      "id": "S-E02",
+      "name": "Cranefish St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 409,
+      "y": 1034,
+      "points": [
+        [
+          459,
+          901
+        ],
+        [
+          459,
+          1146
+        ]
+      ]
+    },
+    {
+      "id": "S-E03",
+      "name": "Bay St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 280,
+      "y": 1050,
+      "points": [
+        [
+          59,
+          921
+        ],
+        [
+          571,
+          1370
+        ]
+      ]
+    },
+    {
+      "id": "S-E04",
+      "name": "Yi St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 687,
+      "y": 1046,
+      "points": [
+        [
+          460,
+          1055
+        ],
+        [
+          878,
+          1055
+        ]
+      ]
+    },
+    {
+      "id": "S-E05",
+      "name": "Yuan St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 566,
+      "y": 1137,
+      "points": [
+        [
+          460,
+          1147
+        ],
+        [
+          714,
+          1147
+        ]
+      ]
+    },
+    {
+      "id": "S-E06",
+      "name": "Yuan St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 869,
+      "y": 1135,
+      "points": [
+        [
+          783,
+          1146
+        ],
+        [
+          940,
+          1146
+        ]
+      ]
+    },
+    {
+      "id": "S-E07",
+      "name": "Cheng St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1378,
+      "y": 1063,
+      "points": [
+        [
+          1419,
+          901
+        ],
+        [
+          1419,
+          1396
+        ]
+      ]
+    },
+    {
+      "id": "S-E08",
+      "name": "Gaoling St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1207,
+      "y": 1147,
+      "points": [
+        [
+          1038,
+          1154
+        ],
+        [
+          1419,
+          1154
+        ]
+      ]
+    },
+    {
+      "id": "S-E09",
+      "name": "Granite St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1531,
+      "y": 994,
+      "points": [
+        [
+          1465,
+          994
+        ],
+        [
+          1584,
+          994
+        ]
+      ]
+    },
+    {
+      "id": "S-E10",
+      "name": "Andesite St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1534,
+      "y": 1039,
+      "points": [
+        [
+          1465,
+          1042
+        ],
+        [
+          1584,
+          1042
+        ]
+      ]
+    },
+    {
+      "id": "S-E11",
+      "name": "Ling St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1524,
+      "y": 1112,
+      "points": [
+        [
+          1465,
+          1113
+        ],
+        [
+          1567,
+          1113
+        ]
+      ]
+    },
+    {
+      "id": "S-E12",
+      "name": "Manufactury St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1567,
+      "y": 1176,
+      "points": [
+        [
+          1582,
+          1137
+        ],
+        [
+          1582,
+          1218
+        ]
+      ]
+    },
+    {
+      "id": "S-E13",
+      "name": "Quang St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1537,
+      "y": 1221,
+      "points": [
+        [
+          1491,
+          1226
+        ],
+        [
+          1584,
+          1226
+        ]
+      ]
+    },
+    {
+      "id": "S-E15",
+      "name": "Zaofu St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1230,
+      "y": 1222,
+      "points": [
+        [
+          1089,
+          1229
+        ],
+        [
+          1419,
+          1229
+        ]
+      ]
+    },
+    {
+      "id": "S-E16",
+      "name": "Zeizhou St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1269,
+      "y": 1285,
+      "points": [
+        [
+          1089,
+          1291
+        ],
+        [
+          1419,
+          1291
+        ]
+      ]
+    },
+    {
+      "id": "S-E17",
+      "name": "Senlin St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1149,
+      "y": 1363,
+      "points": [
+        [
+          1094,
+          1362
+        ],
+        [
+          1192,
+          1362
+        ]
+      ]
+    },
+    {
+      "id": "S-E18",
+      "name": "Boathouse St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 429,
+      "y": 1372,
+      "points": [
+        [
+          381,
+          1353
+        ],
+        [
+          492,
+          1353
+        ]
+      ]
+    },
+    {
+      "id": "S-E19",
+      "name": "Refinery St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 369,
+      "y": 1463,
+      "points": [
+        [
+          375,
+          1427
+        ],
+        [
+          375,
+          1490
+        ]
+      ]
+    },
+    {
+      "id": "S-E20",
+      "name": "Harbor St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 163,
+      "y": 1515,
+      "points": [
+        [
+          140,
+          1544
+        ],
+        [
+          194,
+          1479
+        ]
+      ]
+    },
+    {
+      "id": "S-E21",
+      "name": "Joji St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 397,
+      "y": 1529,
+      "points": [
+        [
+          350,
+          1529
+        ],
+        [
+          430,
+          1529
+        ]
+      ]
+    },
+    {
+      "id": "S-E22",
+      "name": "Slaughterhouse Ln",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 343,
+      "y": 1582,
+      "points": [
+        [
+          300,
+          1542
+        ],
+        [
+          300,
+          1626
+        ]
+      ]
+    },
+    {
+      "id": "S-E23",
+      "name": "Mo Ce St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 258,
+      "y": 1668,
+      "points": [
+        [
+          202,
+          1667
+        ],
+        [
+          308,
+          1667
+        ]
+      ]
+    },
+    {
+      "id": "S-E24",
+      "name": "Mo Ce St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 475,
+      "y": 1589,
+      "points": [
+        [
+          430,
+          1609
+        ],
+        [
+          479,
+          1560
+        ]
+      ]
+    },
+    {
+      "id": "S-E25",
+      "name": "Taku St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 829,
+      "y": 1429,
+      "points": [
+        [
+          780,
+          1430
+        ],
+        [
+          877,
+          1430
+        ]
+      ]
+    },
+    {
+      "id": "S-E26",
+      "name": "Levee St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 758,
+      "y": 1511,
+      "points": [
+        [
+          701,
+          1510
+        ],
+        [
+          815,
+          1510
+        ]
+      ]
+    },
+    {
+      "id": "S-E27",
+      "name": "Sui St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1109,
+      "y": 1443,
+      "points": [
+        [
+          1090,
+          1413
+        ],
+        [
+          1090,
+          1476
+        ]
+      ]
+    },
+    {
+      "id": "S-E28",
+      "name": "Wong St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1240,
+      "y": 1444,
+      "points": [
+        [
+          1230,
+          1383
+        ],
+        [
+          1230,
+          1474
+        ]
+      ]
+    },
+    {
+      "id": "S-E29",
+      "name": "Makapu St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1098,
+      "y": 1495,
+      "points": [
+        [
+          1035,
+          1495
+        ],
+        [
+          1159,
+          1495
+        ]
+      ]
+    },
+    {
+      "id": "S-E30",
+      "name": "Qiong St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1036,
+      "y": 1554,
+      "points": [
+        [
+          973,
+          1554
+        ],
+        [
+          1093,
+          1554
+        ]
+      ]
+    },
+    {
+      "id": "S-E31",
+      "name": "Sate Ct",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1356,
+      "y": 1644,
+      "points": [
+        [
+          1265,
+          1624
+        ],
+        [
+          1265,
+          1647
+        ],
+        [
+          1441,
+          1647
+        ],
+        [
+          1441,
+          1614
+        ]
+      ]
+    },
+    {
+      "id": "N-01",
+      "name": "North Ave",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1268.54,
+      "y": 273.89,
+      "points": [
+        [
+          918.78,
+          273.89
+        ],
+        [
+          1596.62,
+          273.89
+        ]
+      ]
+    },
+    {
+      "id": "N-03",
+      "name": "Lamina St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1339.47,
+      "y": 355.67,
+      "points": [
+        [
+          1244.89,
+          284.73
+        ],
+        [
+          1373.96,
+          419.71
+        ]
+      ]
+    },
+    {
+      "id": "N-04",
+      "name": "Yousheng St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1188.73,
+      "y": 323.16,
+      "points": [
+        [
+          1215.33,
+          283.75
+        ],
+        [
+          1215.33,
+          420.69
+        ]
+      ]
+    },
+    {
+      "id": "N-07",
+      "name": "Market St",
+      "area": "Upper East Side",
+      "sheet": "north",
+      "x": 1511.89,
+      "y": 839.42,
+      "points": [
+        [
+          1432.09,
+          839.42
+        ],
+        [
+          1596.62,
+          839.42
+        ]
+      ]
+    },
+    {
+      "id": "S-01",
+      "name": "Platypus Bear St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 524,
+      "y": 929,
+      "points": [
+        [
+          524,
+          901
+        ],
+        [
+          524,
+          956
+        ]
+      ]
+    },
+    {
+      "id": "S-02",
+      "name": "Fountain St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 620,
+      "y": 986,
+      "points": [
+        [
+          646,
+          901
+        ],
+        [
+          646,
+          1055
+        ]
+      ]
+    },
+    {
+      "id": "S-03",
+      "name": "Fire Lily St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 720,
+      "y": 1026,
+      "points": [
+        [
+          700,
+          901
+        ],
+        [
+          700,
+          1055
+        ]
+      ]
+    },
+    {
+      "id": "S-04",
+      "name": "Purpur St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 758,
+      "y": 927,
+      "points": [
+        [
+          758,
+          901
+        ],
+        [
+          758,
+          956
+        ]
+      ]
+    },
+    {
+      "id": "S-05",
+      "name": "Gaoling St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 865,
+      "y": 987,
+      "points": [
+        [
+          782,
+          956
+        ],
+        [
+          943,
+          1103
+        ],
+        [
+          992,
+          1103
+        ],
+        [
+          1040,
+          1154
+        ]
+      ]
+    },
+    {
+      "id": "S-06",
+      "name": "Fountain St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 644,
+      "y": 1210,
+      "points": [
+        [
+          644,
+          1055
+        ],
+        [
+          644,
+          1393
+        ]
+      ]
+    },
+    {
+      "id": "S-07",
+      "name": "Fire Lily St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 714,
+      "y": 1179,
+      "points": [
+        [
+          714,
+          1055
+        ],
+        [
+          714,
+          1279
+        ]
+      ]
+    },
+    {
+      "id": "S-08",
+      "name": "Purpur St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 783,
+      "y": 1214,
+      "points": [
+        [
+          783,
+          1055
+        ],
+        [
+          783,
+          1371
+        ]
+      ]
+    },
+    {
+      "id": "S-09",
+      "name": "Wolfbat St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 923,
+      "y": 1234,
+      "points": [
+        [
+          939,
+          1104
+        ],
+        [
+          939,
+          1539
+        ]
+      ]
+    },
+    {
+      "id": "S-10",
+      "name": "Rabaroo St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1040,
+      "y": 1280,
+      "points": [
+        [
+          1032,
+          1154
+        ],
+        [
+          1032,
+          1371
+        ]
+      ]
+    },
+    {
+      "id": "S-11",
+      "name": "Sui St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1089,
+      "y": 1184,
+      "points": [
+        [
+          1089,
+          1154
+        ],
+        [
+          1089,
+          1413
+        ]
+      ]
+    },
+    {
+      "id": "S-12",
+      "name": "Taku St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1388,
+      "y": 1413,
+      "points": [
+        [
+          306,
+          1413
+        ],
+        [
+          1539,
+          1413
+        ]
+      ]
+    },
+    {
+      "id": "S-13",
+      "name": "Zaofu St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 514,
+      "y": 1217,
+      "points": [
+        [
+          492,
+          1216
+        ],
+        [
+          591,
+          1216
+        ]
+      ]
+    },
+    {
+      "id": "S-14",
+      "name": "Dragonfly St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 594,
+      "y": 1262,
+      "points": [
+        [
+          594,
+          1147
+        ],
+        [
+          594,
+          1322
+        ]
+      ]
+    },
+    {
+      "id": "S-15",
+      "name": "Wei Gong St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 610,
+      "y": 1322,
+      "points": [
+        [
+          540,
+          1322
+        ],
+        [
+          644,
+          1322
+        ]
+      ]
+    },
+    {
+      "id": "S-16",
+      "name": "Zeizhou St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 800,
+      "y": 1279,
+      "points": [
+        [
+          644,
+          1279
+        ],
+        [
+          939,
+          1279
+        ]
+      ]
+    },
+    {
+      "id": "S-17",
+      "name": "Wei Gong St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 862,
+      "y": 1326,
+      "points": [
+        [
+          783,
+          1326
+        ],
+        [
+          939,
+          1326
+        ]
+      ]
+    },
+    {
+      "id": "S-18",
+      "name": "Fire Lily St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 700,
+      "y": 1435,
+      "points": [
+        [
+          702,
+          1371
+        ],
+        [
+          702,
+          1492
+        ]
+      ]
+    },
+    {
+      "id": "S-19",
+      "name": "Tigerdillo St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 595,
+      "y": 1492,
+      "points": [
+        [
+          595,
+          1413
+        ],
+        [
+          595,
+          1512
+        ]
+      ]
+    },
+    {
+      "id": "S-20",
+      "name": "Pentapus St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 470,
+      "y": 1440,
+      "points": [
+        [
+          410,
+          1459
+        ],
+        [
+          595,
+          1459
+        ]
+      ]
+    },
+    {
+      "id": "S-21",
+      "name": "Lychee St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1432,
+      "y": 1480,
+      "points": [
+        [
+          1443,
+          1413
+        ],
+        [
+          1443,
+          1537
+        ]
+      ]
+    },
+    {
+      "id": "S-23",
+      "name": "Wong St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1221,
+      "y": 1328,
+      "points": [
+        [
+          1221,
+          1291
+        ],
+        [
+          1221,
+          1371
+        ]
+      ]
+    },
+    {
+      "id": "S-24",
+      "name": "Yang St",
+      "area": "Lower East Side",
+      "sheet": "south",
+      "x": 1487,
+      "y": 1171,
+      "points": [
+        [
+          1487,
+          1123
+        ],
+        [
+          1487,
+          1371
+        ]
+      ]
+    }
+  ]
+}
